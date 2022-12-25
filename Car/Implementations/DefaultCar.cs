@@ -1,4 +1,6 @@
-﻿namespace Car.Implementations
+﻿using Car.Interfaces;
+
+namespace Car.Implementations
 {
     public class DefaultCar : ICar
     {

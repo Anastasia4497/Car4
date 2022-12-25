@@ -1,4 +1,7 @@
-﻿namespace Car
+﻿using Car.Implementations;
+using Car.Interfaces;
+
+namespace Car
 {
     public class Program
     {
